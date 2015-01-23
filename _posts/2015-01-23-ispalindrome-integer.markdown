@@ -4,9 +4,16 @@ title:  "Palindrome Integer!"
 date:   2015-01-23 23:55:31
 categories: algorithms
 ---
-asdsadsaad
-{% highlight ruby %}
 
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+{% highlight java %}
 public static boolean isPalindrome(int x) {
 	if (x < 0) 
 		return false;
@@ -24,5 +31,4 @@ public static boolean isPalindrome(int x) {
 	}
 	return true;
 }
-
 {% endhighlight %}
