@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Palindrome Integer!"
+date:   2015-01-23 23:55:31
+categories: algorithms
+---
+
 {% highlight java %}
 public static boolean isPalindrome(int x) {
 	if (x < 0) 
