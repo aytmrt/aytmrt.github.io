@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Murat Resume
+title: Resume
 permalink: /resume/
 ---
 
