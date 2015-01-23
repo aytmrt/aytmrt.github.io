@@ -5,13 +5,7 @@ date:   2015-01-23 23:55:31
 categories: algorithms
 ---
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Code for checking if an integer is a palindrome number.
 
 {% highlight java %}
 public static boolean isPalindrome(int x) {
