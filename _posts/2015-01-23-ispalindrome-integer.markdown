@@ -5,7 +5,7 @@ date:   2015-01-23 23:55:31
 categories: algorithms
 ---
 asdsadsaad
-{% highlight java %}
+{% highlight ruby %}
 
 public static boolean isPalindrome(int x) {
 	if (x < 0) 
