@@ -1,7 +1,8 @@
 # Site settings
 title: Random thoughts on Programming
 email: aytugmurataydin@gmail.com
-description: > # Mostly Programming sometimes bodybuilding
+description: > # this means to ignore newlines until "baseurl:"
+  Mostly Programming, sometimes bodybuilding
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: amrt06
