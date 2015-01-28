@@ -8,4 +8,6 @@ Hello, this is Murat. I am a computer engineer from Turkey. I am also a non-comp
 
 You can find my resume at: [My Resume](https://aytmrt.github.io/resume) or you can [get the PDF]({{ site.url }}/assets/resume.pdf) directly.
 
+You can also follow me on [Twitter](https://www.twitter.com/amrt06) and add me on [Linkedin] (https://www.linkedin.com/profile/view?id=59073731)
+
 
