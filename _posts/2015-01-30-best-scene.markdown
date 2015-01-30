@@ -7,3 +7,5 @@ comments: true
 ---
 
 > For me, the best movie scene ever. More potent than all black coffee as a stimulant, more motivational than 'I have a dream' speech.
+
+"Goosebumps, goosepimples, chills, anxiousness, or the prickly feeling on the back of your neck; Whatever name you say, it's an effect that makes us stand up and cheer for Rocky."
